@@ -1,0 +1,1 @@
+<h2>Hello Welcome <?= $name ?> for Learning Yii2 Framework</h2>
